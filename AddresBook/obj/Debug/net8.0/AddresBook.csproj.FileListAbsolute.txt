@@ -1,0 +1,15 @@
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\bin\Debug\net8.0\AddresBook.exe
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\bin\Debug\net8.0\AddresBook.deps.json
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\bin\Debug\net8.0\AddresBook.runtimeconfig.json
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\bin\Debug\net8.0\AddresBook.dll
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\bin\Debug\net8.0\AddresBook.pdb
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.AssemblyInfoInputs.cache
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.AssemblyInfo.cs
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.csproj.CoreCompileInputs.cache
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.sourcelink.json
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.dll
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\refint\AddresBook.dll
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.pdb
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\AddresBook.genruntimeconfig.cache
+C:\Users\Saikat Mondal\source\repos\AddresBook\AddresBook\obj\Debug\net8.0\ref\AddresBook.dll
