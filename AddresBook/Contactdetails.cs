@@ -7,17 +7,17 @@ using System.Xml.Linq;
 
 namespace AddresBook
 {
-    public  class Contactdetails
+    public class Contactdetails
     {
-        private string firstName { get; set; }
-        private string lastName{ get; set; }
-        private string email { get; set; }
-        private string phone { get; set; }
-        private string address { get; set; }
-        private string city { get; set; }
-        private string state { get; set; }
-        private string zip { get; set; }
-        public Contactdetails(string firstName , string lastName ,  string email, string phone , string address , string city , string state , string zip)
+        public string firstName;
+        public string lastName;
+        public string email;
+        public string phone;
+        public string address;
+        public string city;
+        public string state;
+        public string zip;
+        public Contactdetails(string firstName, string lastName, string email, string phone, string address, string city, string state, string zip)
         {
             this.firstName = firstName;
             this.lastName = lastName;
@@ -28,9 +28,12 @@ namespace AddresBook
             this.state = state;
             this.zip = zip;
 
-            
+
         }
 
-        
+
+
+
+
     }
 }
